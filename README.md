@@ -6,7 +6,6 @@
 
 mewsh@github
 -----------------------
-push > repo: mewsh
 create > repo: site
 -----------------------
 
