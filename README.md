@@ -7,6 +7,7 @@
 mewsh@github
 -----------------------
 %activity%
+push > repo: raika-os-beta
 fork > repo: keenui
 push > repo: mewsh
 -----------------------
