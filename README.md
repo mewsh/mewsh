@@ -6,7 +6,7 @@
 
 mewsh@github
 -----------------------
-create > repo: site
+fork > repo: keenui
 -----------------------
 
 ```
